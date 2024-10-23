@@ -40,8 +40,17 @@ To run this project locally, follow these steps:
 - 
 ## 🌄 Screenshots
 
-- **Home Page**
-- **Shopping Cart**
+### Home Page
+![Home Page](https://github.com/OmarAedoBeta/FastPizzaCo/raw/main/Assets/Images/Home.png)
+
+### Shopping Cart
+![Shopping Cart](https://github.com/OmarAedoBeta/FastPizzaCo/raw/main/Assets/Images/Cart.png)
+
+### Menu Page
+![Menu Page](https://github.com/OmarAedoBeta/FastPizzaCo/raw/main/Assets/Images/Menu.png)
+
+### Order Status
+![Order Status](https://github.com/OmarAedoBeta/FastPizzaCo/raw/main/Assets/Images/Status.png)
 
 ## 🔧 Tools and Dependencies
 
